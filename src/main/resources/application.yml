@@ -1,0 +1,8 @@
+coin-desk-integration:
+  json-url: https://api.coindesk.com/v1/bpi/currentprice.json
+
+free-currency-integration:
+  token: fca_live_8qzrsJhABJpuRPKSIFlajcDS0djycVdmU4BHbiGw
+  base-url: https://api.freecurrencyapi.com/
+  header-token-name: apiKey
+
